@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-default",
-  "description": "Gatsby default starter",
+  "name": "KArt Web site",
+  "description": "KArt Web site",
   "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "dario.dorella@mail.com",
   "dependencies": {
     "gatsby": "^1.9.277",
     "gatsby-link": "^1.6.46",
@@ -10,9 +10,11 @@
     "react-helmet": "^5.2.0"
   },
   "keywords": [
-    "gatsby"
+    "KArt",
+    "dariod",
+    "Art"
   ],
-  "license": "MIT",
+  "license": "Apache",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
@@ -24,6 +26,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/dariod/KArt"
   }
 }
