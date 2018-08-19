@@ -1,0 +1,27 @@
+h1 {
+    justify-self: center;
+    font-family: "Moboto Mono", monospace;
+    font-size: 23.7vw;
+    text-align: center;
+}
+
+h2 {
+    font-size: 120%;
+}
+
+.columnContainer {
+    display: inline-flex;
+    flex-direction: row;
+}
+
+.column {
+    display: inline-flex;
+    flex-direction: column;
+}
+
+.bindToVW {
+    font-size: 4vw;
+}
+.bindToVH {
+    font-size: 4vh;
+}
